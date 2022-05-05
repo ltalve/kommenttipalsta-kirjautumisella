@@ -1,4 +1,4 @@
-**KESKUSTELUPALSTA**
+**KOMMENTTIPALSTA**
 
 Sovelluksessa käyttäjä voi kirjautua sisään ja kommentoida uutista. Asiakassovelluksen taustalla toimii REST API -palvelinsovellus.
 
